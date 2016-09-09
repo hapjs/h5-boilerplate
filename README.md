@@ -1,6 +1,8 @@
 # h5-boilerplate
 
-一个脚手架，让你可以利用 es6 + npm + webpack + vue 快速构建起自己的 h5 项目。
+这是一个脚手架项目，
+
+让你通过 es6 + npm + webpack + vue 可以快速构建起自己的 h5 项目。
 
 ## 开发环境
 
